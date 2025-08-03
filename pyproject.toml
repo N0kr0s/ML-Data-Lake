@@ -1,16 +1,11 @@
 [project]
-name = "data lake"
+name = "ml-entity-linking"
 version = "0.1.0"
 description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
 authors = [
     {name = "N0kr0s",email = "ka0n5206@gmail.com"}
 ]
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-]
-
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
